@@ -335,9 +335,6 @@ public class NotificationFragment extends Fragment implements View.OnClickListen
 
     public void setNotified() {
         notified = true;
-        //PowerManager pm = (PowerManager) getActivity().getSystemService(Context.POWER_SERVICE);
-        //PowerManager.WakeLock wakeLock = pm.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK | PowerManager.ACQUIRE_CAUSES_WAKEUP | PowerManager.ON_AFTER_RELEASE, "My Tag");
-        //wakeLock.release();
     }
 }
 
