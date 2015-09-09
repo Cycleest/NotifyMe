@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="empty_date">--.--.----</string>
+    <string name="empty_time">--:--</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
+    <string name="toast_empty_fields">please, fill the empty fields</string>
+    <string name="title">title:</string>
+    <string name="date">date:</string>
+    <string name="time">time:</string>
+    <string name="description">description:</string>
+</resources>
